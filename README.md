@@ -53,6 +53,10 @@
 
 <br/>
 
+---
+
+![Andi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anditorx&theme=dark&show_icons=true)
+
 [visionet]: https://www.visionet.co.id/en/
 [myyoutube]: https://www.youtube.com/channel/UCQbmFtP73OmD-neuYFBXCfQ
 
