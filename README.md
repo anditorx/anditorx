@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at [Visionet][visionet]
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other
+- 👯 I’m looking to collaborate with other's
 
 ### Languages and Tools:
 
@@ -38,7 +38,22 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/andirustti/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/andirustti/#gh-dark-mode-only)
 
+<br/>
+<br/>
+
+### 📺 YouTube Videos
+
+<!-- YOUTUBE:START -->
+
+- [Install & Setup React Native](https://youtu.be/k2LnG2cB9mc)
+- [React Native Grocery App UI - Speed Code](https://youtu.be/CzJ08f6WpGs)
+- [React Native Rent House App UI - Speed Code](https://youtu.be/7HohCMiapNU)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCQbmFtP73OmD-neuYFBXCfQ)
+
 [visionet]: https://www.visionet.co.id/en/
+[myyoutube]: https://www.youtube.com/channel/UCQbmFtP73OmD-neuYFBXCfQ
 
 <!--
 **anditorx/anditorx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
