@@ -38,8 +38,6 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/andirustti/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/andirustti/#gh-dark-mode-only)
 
-<br/>
-
 ---
 
 ### 📺 YouTube Videos:
