@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Andi Rustianto
 
-- 🔭 I’m currently working at [Visionet]
+- 🔭 I’m currently working at [Visionet][visionet]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other
 
@@ -37,6 +37,8 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/andirustti/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/andirustti/#gh-dark-mode-only)
+
+[visionet]: https://www.visionet.co.id/en/
 
 <!--
 **anditorx/anditorx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
