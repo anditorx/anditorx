@@ -53,8 +53,8 @@
 
 ---
 
-![Andi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anditorx&theme=gradient&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anditorx&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/anditorx)
+![Andi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anditorx&theme=github_dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anditorx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [visionet]: https://www.visionet.co.id/en/
 [myyoutube]: https://www.youtube.com/channel/UCQbmFtP73OmD-neuYFBXCfQ
