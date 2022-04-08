@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate with other's
 
 ### Languages and Tools:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anditorx&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -20,14 +22,10 @@
 <img align="left" alt="Postman" width="26px" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" style="padding-right:10px;" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anditorx)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-<br/>
 
 
 <br/>
-
+<br/>
 ### Connect with me:
 
 <!-- [![website](./img/globe-light.svg)]() -->
