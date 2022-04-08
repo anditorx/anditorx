@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Andi Rustianto
 
 <!-- - 🔭 I’m currently working at [Visionet][visionet] -->
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning java & kotlin 🤣
 - 👯 I’m looking to collaborate with other's
 
 ### Languages and Tools:
