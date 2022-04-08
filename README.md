@@ -21,7 +21,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anditorx&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anditorx&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
 ### Connect with me:
