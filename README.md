@@ -20,6 +20,9 @@
 <img align="left" alt="Postman" width="26px" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" style="padding-right:10px;" />
 
 <br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 
 ### Connect with me:
