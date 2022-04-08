@@ -24,6 +24,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anditorx&theme=github_dark&layout=compact&hide=html,css,php,blade,roff,scss)](#)
 
+
+![Andi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anditorx&theme=github_dark&show_icons=true)
+
+---
+
 ### Connect with me:
 
 <!-- [![website](./img/globe-light.svg)]() -->
@@ -55,9 +60,7 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCQbmFtP73OmD-neuYFBXCfQ)
 
----
 
-![Andi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anditorx&theme=github_dark&show_icons=true)
 
 [visionet]: https://www.visionet.co.id/en/
 [myyoutube]: https://www.youtube.com/channel/UCQbmFtP73OmD-neuYFBXCfQ
