@@ -22,7 +22,7 @@
 <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anditorx&theme=github_dark&layout=compact&hide=html,css,php,blade)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anditorx&theme=github_dark&layout=compact&hide=html,css,php,blade,roff)](#)
 
 ### Connect with me:
 
