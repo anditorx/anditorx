@@ -44,8 +44,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/andirustianto/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/andirustianto/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/andirustti/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/andirustti/#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/anditorx/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/anditorx/#gh-dark-mode-only)
 
 ---
 
