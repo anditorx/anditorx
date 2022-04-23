@@ -56,6 +56,7 @@
 - [Install & Setup React Native](https://youtu.be/k2LnG2cB9mc)
 - [React Native Grocery App UI - Speed Code](https://youtu.be/CzJ08f6WpGs)
 - [React Native Rent House App UI - Speed Code](https://youtu.be/7HohCMiapNU)
+- [Rest API Node JS ( Express JS + Sequelize + MySQL )](https://youtu.be/W7JG8P_BY6w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCQbmFtP73OmD-neuYFBXCfQ)
