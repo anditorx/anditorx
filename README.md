@@ -29,6 +29,9 @@
 
 ---
 
+![Andi's Github Trophy](https://github-profile-trophy.vercel.app/?username=anditorx)
+
+---
 ### Connect with me:
 
 <!-- [![website](./img/globe-light.svg)]() -->
