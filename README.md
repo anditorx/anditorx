@@ -29,7 +29,8 @@
 
 ---
 
-![Andi's Github Trophy](https://github-profile-trophy.vercel.app/?username=anditorx)
+![Andi's Github Trophy](https://github-profile-trophy.vercel.app/?username=anditorx&theme=discord)
+
 
 ---
 ### Connect with me:
