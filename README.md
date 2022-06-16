@@ -4,6 +4,11 @@
 <!-- - 🌱 I’m currently learning java & kotlin 🤣 -->
 - 👯 I’m looking to collaborate with other's
 
+
+![Andi's Github Trophy](https://github-profile-trophy.vercel.app/?username=anditorx&theme=discord)
+
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -29,10 +34,6 @@
 
 ---
 
-![Andi's Github Trophy](https://github-profile-trophy.vercel.app/?username=anditorx&theme=discord)
-
-
----
 ### Connect with me:
 
 <!-- [![website](./img/globe-light.svg)]() -->
