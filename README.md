@@ -31,7 +31,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anditorx&theme=github_dark&layout=compact&hide=html,css,php,blade,roff,scss)](#)
 
 
-![Andi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anditorx&theme=github_dark&show_icons=true)
+![Andi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anditorx&theme=github_dark&show_icons=true&rank=-C)
 
 ---
 
