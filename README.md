@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate with other's
 
 
+### Andi's Github Trophy:
 ![Andi's Github Trophy](https://github-profile-trophy.vercel.app/?username=anditorx&theme=discord)
 
 
