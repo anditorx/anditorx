@@ -6,7 +6,7 @@
 
 
 ### Andi's Github Trophy:
-![Andi's Github Trophy](https://github-profile-trophy.vercel.app/?username=anditorx&theme=discord&rank=-C)
+![Andi's Github Trophy](https://github-profile-trophy.vercel.app/?username=anditorx&theme=discord&rank=-C&margin-w=15)
 
 
 
