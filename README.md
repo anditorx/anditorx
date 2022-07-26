@@ -55,6 +55,13 @@
 
 ---
 
+### 📰 Blog:
+
+- [Android App Pentest #1 Setup Certificate Burpsuite ke Emulator Android](https://medium.com/p/543bad8f35cc)
+
+
+---
+
 ### 📺 YouTube Videos:
 
 <!-- YOUTUBE:START -->
