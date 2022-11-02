@@ -58,6 +58,7 @@
 ### 📰 Blog:
 
 - [Android App Pentest #1 Setup Certificate Burpsuite ke Emulator Android](https://medium.com/p/543bad8f35cc)
+- [Android App Pentest #2 Finding Sensitive Information in Android Application Using MobSF](https://medium.com/@anditorx/week-1-stackview-autolayout-77f666fe3648)
 
 
 ---
